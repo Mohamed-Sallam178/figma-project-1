@@ -7,3 +7,10 @@
     padding-left: 200px;
     padding-right: 200px;
 }
+ul{
+    list-style: none;
+}
+.parent-head{
+    background-color:red;
+    display: flex;
+}
